@@ -117,3 +117,8 @@ dependencies {
         implementation jscFlavor
     }
 }
+// externalNativeBuild {
+//     cmake {
+//         version "3.22.1"
+//     }
+// }
